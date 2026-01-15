@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 aea10501021de35a6153fc1ba4b12d5e860c0d5a GenSpark Developer <developer@genspark.ai> 1767908089 +0000	commit (initial): Initial commit: London House luxury hotel website
+aea10501021de35a6153fc1ba4b12d5e860c0d5a 560352422aa5695a409259aeed2a2f9ede9d4055 genspark_dev <genspark_dev@genspark.ai> 1768233949 +0000	commit: Added easy config.js for updating photos and text - new room categories
+560352422aa5695a409259aeed2a2f9ede9d4055 ada4941ec1c8300d11b4aade4e30f2b33007db74 GenSpark Developer <developer@genspark.ai> 1768248276 +0000	commit: Updated room categories - removed rates, new 7 room types
+ada4941ec1c8300d11b4aade4e30f2b33007db74 9368ad0ea6491b228abdb8aaad6e8d7d377577fd genspark_dev <genspark_dev@genspark.ai> 1768485453 +0000	commit: Added image carousels for each room - 6 images per room with auto-play and navigation
